@@ -12,7 +12,10 @@
     └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
+所有随便进入一个商品页面挂着，例如  
+<img src="https://github.com/KingZD/Resource/blob/master/tools/QQ%E6%88%AA%E5%9B%BE20190117140013.png"  height="420" width="250">
 
+然后你就可以看到正常调用之后的结果了
 
 ```
 01-17 13:56:36.648 2204-2225/com.taobao.etao I/generateTaoPassword:  
@@ -91,3 +94,12 @@
     │ args[2] = null
     └────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
+
+
+在里面随便找了个淘口令分别在e淘和淘宝试了一下的结果  
+
+|e淘|ww|
+|--|--|
+|<img src="https://github.com/KingZD/Resource/blob/master/tools/QQ%E6%88%AA%E5%9B%BE20190117135933.png"  height="420" width="250">|<img src="https://github.com/KingZD/Resource/blob/master/tools/QQ%E6%88%AA%E5%9B%BE20190117140239.png"  height="420" width="250">|
+
+# 我学习的e淘版本是 V6.6.2(146)
