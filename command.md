@@ -11,7 +11,7 @@ adb shell "ps | grep com.taobao.taobao"
 
 adb forward tcp:8800 jdwp:23678  
 
-复制这条信息，打开??一淘App??即可看到【 北极绒男士秋衣秋裤纯棉毛衫女士薄款保暖内衣加大码打底情侣套装】￥DlqBGH2hwN￥ ??淘口令?? https://m.tb.cn/h.3oYLUCF?cv=DlqBGH2hwN&sm=38d45d  
+复制这条信息，打开??一淘App??即可看到【 北极绒男士秋衣秋裤纯棉毛衫女士薄款保暖内衣加大码打底情侣套装】￥DlqBGH2hwN￥ ??淘口令??  
 
 ## 查看手机连接  
 adb devices  
